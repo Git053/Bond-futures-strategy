@@ -10,7 +10,7 @@ Concept 1. 3년물과 10년물 limit orderbook 사이에서 3년물이 먼저 �
 
 = 호가의 체결 방향을 보면서 market order 로 진입후 1~2tick 의 이익을 얻고 exit 
 
-
+<img src="./Graph/pipline.png" width="350"> <img src="./Graph/pipline.png" width="350">
 
 
 
@@ -21,6 +21,8 @@ Concept 2. 3년물과 10년물 사이의 방향이 서로 엇갈릴 경우 가�
 spread 가 줄어들면 이익을 얻고 exit 
 
 <img src="https://user-images.githubusercontent.com/90368209/141477910-2a42d96a-a349-4528-9c21-f68cfbe83f1c.JPG" width="650">
+
+<img src="https://user-images.githubusercontent.com/90368209/141477920-bb900b89-b840-49f3-afe0-d232713b2a75.JPG" width="650">
 
 
 
