@@ -20,6 +20,8 @@ Concept 2. 3년물과 10년물 사이의 방향이 서로 엇갈릴 경우 가�
 = 같은 시계열 snapshot 에서 linear regression 보다 높은 상품은 sell 낮은 상품은 buy 하여 헤지한뒤
 spread 가 줄어들면 이익을 얻고 exit 
 
+<img src="https://user-images.githubusercontent.com/90368209/141477910-2a42d96a-a349-4528-9c21-f68cfbe83f1c.JPG" width="650">
+
 
 
 
