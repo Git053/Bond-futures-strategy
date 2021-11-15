@@ -14,7 +14,7 @@ Concept 1. 3년물과 10년물 limit orderbook 사이에서 3년물이 먼저 �
 
 
 
-= 호가의 체결 방향을 보면서 market order 로 진입후 1~2tick 의 이익을 얻고 exit 
+= 호가의 체결 방향을 보면서 market order 로 진입후 1~2tick 의 이익을 얻음
 
 <img src="https://user-images.githubusercontent.com/90368209/141478519-5329b75d-8520-4b3a-9ab2-16a36aeca912.JPG" width="350"> <img src="https://user-images.githubusercontent.com/90368209/141478529-b0e19f17-d3c0-4970-856b-51b5c191360c.JPG" width="350">
 
@@ -37,8 +37,8 @@ Concept 2. 3년물과 10년물 사이의 방향이 서로 엇갈릴 경우 가�
 
 
 
-= 같은 시계열 snapshot 에서 linear regression 보다 높은 상품은 sell 낮은 상품은 buy 하여 헤지한뒤
-spread 가 줄어들면 이익을 얻고 exit 
+= 같은 시계열 snapshot 에서 linear regression 보다 높은 상품은 sell 낮은 상품은 buy 하여 
+spread 가 줄어들면 이익을 얻음
 
 
 
